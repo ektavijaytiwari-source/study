@@ -1,0 +1,6 @@
+{
+  "name": "ScholarDeck",
+  "description": "Comprehensive student study operating system to organize lecture notes, schedule upcoming exams with syllabus breakdowns, and track study progress with Pomodoro analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
